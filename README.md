@@ -4,6 +4,8 @@
 ### Description: 
 <div align = "justify">
 
+RapidMiner provides data mining and machine learning procedures including: data loading and transformation (ETL), data preprocessing and visualization, predictive analytics and statistical modeling, evaluation, and deployment. RapidMiner is written in the Java programming language. RapidMiner provides a GUI to design and execute analytical workflows. Those workflows are called “Processes” in RapidMiner and they consist of multiple “Operators”. Each operator performs a single task within the process, and the output of each operator forms the input of the next one. Alternatively, the engine can be called from other programs or used as an API. Individual functions can be called from the command line. RapidMiner provides learning schemes, models and algorithms and can be extended using R and Python scripts.
+
 ### Procedure:
 1) ***Import Excel data***
     <p>a. Drag the "Read Excel" operator from the IO folder onto the process canvas.
@@ -27,4 +29,18 @@
 
 ### Output:
 
+### Read CSV
+
+![image](https://github.com/user-attachments/assets/ab935474-1664-4f09-8140-11f1c5d8a92a)
+
+### Replace @
+
+![image](https://github.com/user-attachments/assets/5063c65a-6018-4f0e-a56d-2e3101d1708a)
+
+![image](https://github.com/user-attachments/assets/00002b74-5229-4df6-8b8d-6a3eafbb8d5f)
+
+![image](https://github.com/user-attachments/assets/17839eac-021f-4b4e-9d6b-766f53fb94a4)
+
 ### Result:
+
+Thus, sentimental analysis for the given data using Rapidminer is done successfully.
